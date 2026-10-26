@@ -3,6 +3,7 @@
 
 ## Carlos Dario Mora Erazo
 **Profesión:** _Estudiante de Analisis y Desarrollo de Software_
+               _Comerciante_
 
 ## 📞 Contacto
 - **Email:** [Carioahj4@gmail.com](Carioahj4@gmail.com)
