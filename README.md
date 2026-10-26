@@ -9,11 +9,13 @@
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Comerciante independiente** _(2023 - Actualidad)_
+- Gestión y administración de ventas de manera independiente a través de internet.
+- Atención al cliente, manejo de canales digitales y logística de entrega de productos.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Tugo** _(2022 - 2023)_
+- Coordinador de logistica
+- Coordinar y supervisar el proceso logístico, control de inventarios y almacenamiento. 
 
 ## 🎓 Educación
 ### **Gimnasio Americano** _(2014)_
