@@ -23,9 +23,9 @@
 - Análisis y Desarrollo de Software (ADSO)
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Trabajo en equipo**
+- **Disciplina**
+- **Aprendizaje constante**
 
 ---
 
