@@ -5,7 +5,7 @@
 **Profesión:** _Estudiante de Analisis y Desarrollo de Software_
 
 ## 📞 Contacto
-- **Email:** [correo@ejemplo.com](Carioahj4@gmail.com)
+- **Email:** [Carioahj4@gmail.com](Carioahj4@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
