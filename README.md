@@ -16,8 +16,11 @@
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Gimnasio Americano** _(2014)_
+- Bachiller.
+
+  ### **SENA** _(PROCESO)_
+- Análisis y Desarrollo de Software (ADSO)
 
 ## 💡 Habilidades
 - **Habilidad 1**
