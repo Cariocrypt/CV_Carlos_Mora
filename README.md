@@ -2,10 +2,10 @@
 # Hoja de Vida
 
 ## Carlos Dario Mora Erazo
-**Profesión:** _Tu profesión_
+**Profesión:** _Estudiante de Analisis y Desarrollo de Software_
 
 ## 📞 Contacto
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [correo@ejemplo.com](Carioahj4@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
