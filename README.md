@@ -2,9 +2,10 @@
 # Hoja de Vida
 
 ## Carlos Dario Mora Erazo
-**Profesión:** _Estudiante de Analisis y Desarrollo de Software_
+**Profesión:** 
+_Estudiante de Analisis y Desarrollo de Software_
 
-Comerciante
+_Comerciante_
 
 ## 📞 Contacto
 - **Email:** [Carioahj4@gmail.com](Carioahj4@gmail.com)
