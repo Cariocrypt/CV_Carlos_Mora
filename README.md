@@ -2,7 +2,8 @@
 # Hoja de Vida
 
 ## Carlos Dario Mora Erazo
-**Profesión:** 
+**Profesión:**
+
 _Estudiante de Analisis y Desarrollo de Software_
 
 _Comerciante_
