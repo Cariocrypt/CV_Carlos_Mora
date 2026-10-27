@@ -10,7 +10,7 @@ _Comerciante_
 
 ## 📞 Contacto
 - **Email:** [Carioahj4@gmail.com](Carioahj4@gmail.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/carlos-mora-1739a23a2/)
 
 ## 🏢 Experiencia Laboral
 ### **Comerciante independiente** _(2023 - Actualidad)_
